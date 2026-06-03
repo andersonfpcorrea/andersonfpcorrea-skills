@@ -2,7 +2,7 @@
 
 A private Claude Code skill marketplace. Currently ships one plugin, **`book-skills`** — a set of knowledge-base skills extracted from engineering books.
 
-> **Internal use only.** These skills are condensed structural extracts (frameworks, principles, anti-patterns) of copyrighted books. They are study aids for people who own the books. Do not redistribute publicly.
+> **Study aids, not substitutes.** Each skill is a condensed set of structural notes — frameworks, principles, and anti-patterns — distilled from the named book. They summarize ideas and methods rather than reproduce the text, and are meant to complement the original work, not replace it. If a book is useful to you, buy it and read it.
 
 ## What's inside
 
