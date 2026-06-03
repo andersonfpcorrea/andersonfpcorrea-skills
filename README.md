@@ -23,7 +23,7 @@ The `book-skills` plugin bundles nine on-demand knowledge bases. Each one loads 
 ## Install
 
 ```
-/plugin marketplace add git@github.com:andersonfpcorrea/andersonfpcorrea-skills.git
+/plugin marketplace add https://github.com/andersonfpcorrea/andersonfpcorrea-skills.git
 /plugin install book-skills
 ```
 
