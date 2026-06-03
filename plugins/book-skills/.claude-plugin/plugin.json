@@ -1,0 +1,19 @@
+{
+  "name": "book-skills",
+  "version": "1.0.0",
+  "description": "Knowledge-base skills extracted from engineering books (AI engineering, observability, SRE, SLOs, secure systems, software design, DevOps delivery). Each skill loads its core frameworks on demand and reads individual chapters as needed.",
+  "author": {
+    "name": "Anderson Correa",
+    "email": "andersonfpcorrea@gmail.com"
+  },
+  "keywords": [
+    "sre",
+    "observability",
+    "slo",
+    "ai-engineering",
+    "software-design",
+    "devops",
+    "reliability",
+    "security"
+  ]
+}

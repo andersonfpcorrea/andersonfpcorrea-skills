@@ -1,0 +1,18 @@
+{
+  "name": "andersonfpcorrea-skills",
+  "owner": {
+    "name": "Anderson Correa",
+    "email": "andersonfpcorrea@gmail.com"
+  },
+  "metadata": {
+    "description": "Anderson Correa's personal Claude Code skill marketplace.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "book-skills",
+      "source": "./plugins/book-skills",
+      "description": "Nine knowledge-base skills extracted from engineering books: AI engineering, observability, SRE (x3), SLOs, secure systems, software design, and DevOps delivery."
+    }
+  ]
+}
